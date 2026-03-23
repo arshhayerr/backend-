@@ -1,0 +1,6 @@
+Average: 20
+Minimum: 5
+Factorial: 120
+Prime: true
+Difference of squares: 75
+Even or Odd: Odd
